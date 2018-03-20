@@ -1,0 +1,11 @@
+As duvidas sobre o desafio não foram muitas, apenas fiquei um pouco confuso em como seria para resolver o calculo.
+Resolvi então pesquisar, e então encontrei algumas formulas matemáticas para resolver o problema, o fato é que, todas as que
+eu tinha em mãos, eram extensas e apenas com desenhos para conseguir resolver, foi onde, por meio de muita pesquisa, encontrei a
+formula que eu usei no desafio, ela consiste em uma constante, onde se multiplica as horas por 60, os minutos por 11 subtrai os 
+valores e divide por dois, dando assim o angulo entre os ponteiros.
+Após utilizar a formula foi facil, usando um pouco de lógica e a utilização da ferramenta VisuAlg3.0 contrui o algoritmo
+solicitado. Infelizmente, a formula que é demonstrada no site, ela se aplica em modulo(para nunca dar um numero negativo) e isso foi
+onde me surgiu uma das maiores duvidas, tanto na linguagem quanto no problema. Como eu iria fazer para converter um angulo negativo
+num numero positivo?. Por ser uma plataforma que eu não tinha conhecimento, fui atrás de algum comando que me possibilita-se fazer
+essa conversão, frustado por não ter conhecido, utilizei um método muito comum em ensino médio, que é multiplicar o resultado por
+-1 (um negativo) isso alteraria  sinal do resultado, fazendo com que nunca dê um numero negativo.
